@@ -92,7 +92,7 @@ Pod::Spec.new do |spec|
   #
 
   spec.source_files  = "Sources/CustomDump/**/*.swift"
-  spec.exclude_files = "Sources/CustomDump/XCTAssertNoDifference.swift"
+
   # spec.public_header_files = "Classes/**/*.h"
 
 
